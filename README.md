@@ -6,4 +6,6 @@ Download page for the amazing commuter application.
 
 ![commuter-preview](./commuter-demo.png)
 
-### links and other stuff will surely be provided by the end of the day.
+### url: https://perfactors.com/commuter
+
+<b>enjoy your powerfull application</b>
